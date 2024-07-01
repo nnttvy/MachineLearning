@@ -1,0 +1,3 @@
+With the _Shop Customer Data_ dataset (provided by the our lecturer), my team and I explored and applied the Mean Shift algorithm to cluster customers based on similar characteristics, needs, and shopping behaviors.
+
+The objective of the project was to understand the operational mechanism of the Mean Shift clustering algorithm through its application to the given dataset, thereby identifying its strengths and weaknesses concerning the dataset features. Additionally, we expanded our study by comparing the clustering effectiveness of the Mean Shift algorithm with several other popular algorithms.
